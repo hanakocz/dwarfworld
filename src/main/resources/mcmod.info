@@ -1,0 +1,16 @@
+[
+{
+  "modid": "DwarfWorld",
+  "name": "Dwarf World",
+  "description": "Little easy mod for GM - DwarfWorld modpack",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["hanakocz"],
+  "credits": "hanakocz, all forge tutorial people",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["Baubles"]
+}
+]
